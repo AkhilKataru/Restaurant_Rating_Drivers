@@ -55,8 +55,7 @@ zomato-bangalore-restaurant-analysis/
 ├── data/
 │   └── README.md   (data source/download link — raw data not committed)
 ├── requirements.txt
-└── images/
-    └── eda_overview.png
+└── eda_priview.zip
 ```
 
 ## How to Run
