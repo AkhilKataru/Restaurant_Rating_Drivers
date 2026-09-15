@@ -2,7 +2,7 @@
 
 An exploratory data analysis of 51,660 restaurants across 93 areas of Bangalore, identifying what actually drives higher ratings — useful for restaurant owners, the Zomato platform, and investors.
 
-![eda-preview](images/eda_overview.png)
+![eda-preview](eda_overview.png)
 
 ## Business Problem
 
