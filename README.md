@@ -61,10 +61,10 @@ zomato-bangalore-restaurant-analysis/
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zomato-bangalore-restaurant-analysis.git
-cd zomato-bangalore-restaurant-analysis
+git clone https://github.com/AkhilKataru/Restaurant_Rating_Drivers.git
+cd Restaurant_Rating_Drivers
 pip install -r requirements.txt
-jupyter notebook notebooks/zomato_bangalore_eda.ipynb
+jupyter notebook Zomato_Bangalore_EDA.ipynb
 ```
 
 ## Data
